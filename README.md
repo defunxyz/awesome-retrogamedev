@@ -19,7 +19,7 @@ A list of Retro Game Development resources to get you started
 ### Tutorials
 
 #### YouTube
-##### **By Memelvar:**
+##### **NES Series @ Memelvar:**
 * [Making my own NES game (Part 1)](https://youtu.be/7Rfb-JY_1mE)
 * [Making my own NES game (Part 2)](https://youtu.be/ioVKfjJqk-s)
 * [Making My Own NES Game (Part 3) | Items & Inventory](https://youtu.be/KUz5VMxnI4g)
